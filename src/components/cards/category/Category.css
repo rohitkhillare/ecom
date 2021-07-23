@@ -1,0 +1,23 @@
+.cat_card{
+     /* max-width: '100'; */
+    width: 100%;
+     overflow: hidden;
+     border-radius: 1rem;
+     box-shadow: 0 15px 25px rgba(0,0,0,0.025);
+    }
+
+    .col-sm-3{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .category-image{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .category-title{
+        margin-left: 35%;
+    }
